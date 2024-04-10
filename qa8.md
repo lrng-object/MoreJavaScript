@@ -56,7 +56,7 @@ for (let i = 0; i < enemies.length; i++) {
 
 ¡Así que ahí lo tienes, los bucles en JavaScript pueden ser tu mejor amigo cuando necesitas hacer algo una y otra vez! Pero recuerda, siempre asegúrate de tener una forma de salir del bucle, ¡o podrías encontrarte atrapado en un bucle infinito!
 
-**¿?Cuales son las diferencias entr `const`, `let`y `var`**
+**¿Cuales son las diferencias entr `const`, `let`y `var`?**
 Las diferencias entre `const`, `let`, y `var` en JavaScript son importantes para comprender cómo se comportan las variables en diferentes contextos. Aquí está la explicación:
 
 `const` se utiliza para declarar variables cuyo valor no cambiará a lo largo del tiempo. Es decir, una vez que se asigna un valor a una variable `const`, no se puede cambiar más adelante en el código.
