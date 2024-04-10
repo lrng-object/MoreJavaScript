@@ -1,4 +1,4 @@
-**¿Qué tipo de bucles hay en JS?
+**¿Qué tipo de bucles hay en JS?**
 
 Bucles son estructuras de control que permiten ejecutar un bloque de código repetidamente hasta que se cumpla cierta condición de salida.
 
@@ -94,7 +94,7 @@ console.log(y); // Output: 20
 
 ¡Espero que esta explicación te ayude a entender las diferencias entre `const`, `let`, y `var` en JavaScript!
 
-¿Qué es una función de flecha?
+**¿Qué es una función de flecha?**
 
 Una función de flecha en JavaScript es una forma más concisa de escribir funciones anónimas (funciones sin nombre) utilizando una sintaxis más compacta e intuitiva. Fueron introducidas en ECMAScript 6 (también conocido como ES6) y se han vuelto muy populares debido a su claridad y simplicidad.
 
@@ -134,7 +134,7 @@ console.log(youngUsers); // Output: [{ name: 'Alice', age: 25 }, { name: 'Charli
 
 ¡Espero que esta explicación te haya ayudado a comprender qué es una función de flecha en JavaScript! Son una herramienta poderosa y útil para escribir código más limpio y legible.
 
-**¿Qué es la deconstrucción de variables?
+**¿Qué es la deconstrucción de variables?**
 
 La deconstrucción de variables en JavaScript es una forma elegante y eficiente de extraer valores de arrays o propiedades de objetos y asignarlos a variables individuales. Esta característica fue introducida en ECMAScript 6 (también conocido como ES6) y ha simplificado en gran medida el manejo de datos estructurados en JavaScript.
 
@@ -178,7 +178,7 @@ console.log(completed); // Output: false
 
 ¡La deconstrucción de variables es una herramienta poderosa que te permite trabajar con datos estructurados de manera más eficiente y legible en JavaScript!
 
-**¿Qué hace el operador de extensión en JS?
+**¿Qué hace el operador de extensión en JS?**
 
 El operador de extensión en JavaScript, representado por tres puntos consecutivos (`...`), se utiliza para expandir o extender iterables (como arrays) en lugares donde se esperan múltiples argumentos o elementos. Este operador permite manipular fácilmente colecciones de datos, combinarlas o desestructurarlas de manera más flexible y concisa.
 
@@ -219,7 +219,7 @@ renderTable(combinedData);
 
 ¡El operador de extensión es una herramienta muy útil para manipular colecciones de datos de manera eficiente y elegante en JavaScript!
 
-**¿Qué es la programación orientada a objetos?
+**¿Qué es la programación orientada a objetos?**
 
 La programación orientada a objetos (POO) es como organizar una fábrica de automóviles. En lugar de construir cada automóvil desde cero cada vez, diseñas un conjunto de plantillas y procesos estandarizados que te permiten construir diferentes modelos de automóviles de manera eficiente y consistente.
 
@@ -249,7 +249,7 @@ console.log(myCar.getCarInfo()); // Output: Toyota Corolla 2022
 
 La POO se utiliza ampliamente en el desarrollo de software para crear sistemas complejos y escalables. Desde aplicaciones web hasta juegos, la programación orientada a objetos proporciona una forma flexible y poderosa de abordar problemas de programación de manera estructurada y eficiente.
 
-**¿Qué es una promesa en JS?
+**¿Qué es una promesa en JS?**
 
 Imagina que le pides a un amigo que te traiga un café de tu cafetería favorita. En lugar de esperar frente a la cafetería hasta que regrese con el café, le das una nota con tu pedido y le dices que te llame cuando esté listo. Mientras tanto, puedes seguir haciendo otras cosas sin esperar activamente.
 
@@ -279,7 +279,7 @@ coffeePromise
 
 Las promesas son muy útiles cuando trabajas con operaciones asincrónicas en JavaScript, como solicitudes de red o lecturas de archivos, donde no sabes cuándo se completarán. Con promesas, puedes encadenar acciones que se realizarán una vez que la operación asincrónica se haya completado con éxito o haya fallado, lo que hace que tu código sea más claro y fácil de entender.
 
-¿Qué hacen async y await por nosotros?
+**¿Qué hacen async y await por nosotros?**
 
 Piensa en una tarea que tienes que hacer, como lavar los platos. En lugar de lavar cada plato uno por uno y esperar a que estén limpios antes de pasar al siguiente, puedes poner los platos en el lavavajillas y hacer otras cosas mientras el lavavajillas hace su trabajo. Async y await en JavaScript funcionan de manera similar, permitiéndote continuar con otras tareas mientras esperas que una operación asincrónica se complete.
 
