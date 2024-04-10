@@ -275,7 +275,7 @@ coffeePromise
 - Una promesa es un objeto que representa el resultado eventual de una operación asincrónica.
 - Puede estar en uno de los tres estados: pendiente (pending), resuelta (fulfilled), o rechazada (rejected).
 - Permite escribir código más limpio y legible al manejar operaciones asincrónicas de manera más estructurada, evitar el "Callback hell":
-![Callback Hell](.ryuu-callback.gif)
+![Callback Hell](https://github.com/lrng-object/MoreJavaScript/blob/main/ryuu-callback.gif)
 
 Las promesas son muy útiles cuando trabajas con operaciones asincrónicas en JavaScript, como solicitudes de red o lecturas de archivos, donde no sabes cuándo se completarán. Con promesas, puedes encadenar acciones que se realizarán una vez que la operación asincrónica se haya completado con éxito o haya fallado, lo que hace que tu código sea más claro y fácil de entender.
 
